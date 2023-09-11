@@ -1,4 +1,10 @@
--- Not Made By Me
+--[[
+   Performance Mashup Script by Canario#3681 
+    Credit to:
+      - MilkUp Discord (https://milkup.info/)
+      - Nexus (https://github.com/ic3w0lf22)
+]]--
+
 -- <CONFIGURATION>
 local LIMIT_BACKGROUND_FPS = true
 local NO_BACKGROUND_RENDERING = true
